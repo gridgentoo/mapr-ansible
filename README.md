@@ -1,5 +1,5 @@
 # MapR Ansible Scripts
-![MapR] ( https://mapr.com/docs/52/MapROverview/images/converged_data_platform.png ) 
+![MapR]( https://mapr.com/docs/52/MapROverview/images/converged_data_platform.png ) 
 
 This is a collection of Ansible scripts which help you to setup a MapR-cluster.
 
