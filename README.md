@@ -1,5 +1,5 @@
 # MapR Ansible Scripts
-![MapR]( hhttps://grafana.com/api/dashboards/2515/images/1528/image ) 
+![MapR]( https://bizexc.files.wordpress.com/2016/09/r-server.png ) 
 
 ![MapR]( https://mapr.com/docs/52/MapROverview/images/converged_data_platform.png ) 
 
